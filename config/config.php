@@ -1,0 +1,6 @@
+<?php
+/**
+ *  Page name: Configuration
+ */
+
+
