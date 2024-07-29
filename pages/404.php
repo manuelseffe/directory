@@ -1,1 +1,7 @@
-Error Page
+<?php
+
+dirHeader();
+
+echo 'Error Page';
+
+dirFooter();

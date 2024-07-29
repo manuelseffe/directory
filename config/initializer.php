@@ -6,7 +6,7 @@ function dirHeader()
     $header .= "<html lang='en'>";
     $header .= "<head>";
     $header .= meta();
-    $header .= dirTitle();
+    // $header .= dirTitle();
     $header .= "</head>";
     $header .= "<body>";
 
@@ -28,3 +28,13 @@ function dirSidebar()
 {
 
 }
+
+function meta()
+{  
+    return '<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>';
+
+}
+
+
