@@ -1,0 +1,18 @@
+{
+    "name": "directory/manuels",
+    "description": "New Directory",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "dire\\": "dire/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manuels Effe",
+            "email": "manuelseffe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
